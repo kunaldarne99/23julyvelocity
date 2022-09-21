@@ -1,1 +1,9 @@
 This is demo code for 23july velocity batch
+
+we are working on git funtionalty
+
+topic covered
+oops 
+array
+
+need to update code
